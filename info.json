@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "id": "version-36a2600cebf1487d",
+      "platform": "Roblox"
+    },
+    {
+      "id": "0.0.9",
+      "platform": "Serpent"
+    }
+  ],
+  "changelogs": [
+    {
+      "id": 1,
+      "version_id": "0.0.9",
+      "timestamp": "2026-07-14T14:18:00Z",
+      "title": "0.0.9",
+      "description": "fixed ui, rewrite gethiddenproperty/sethiddenproperty"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.8",
+      "timestamp": "2026-07-14T03:43:00Z",
+      "title": "0.0.8",
+      "description": "fixed tphandler"
+    }
+  ]
+}

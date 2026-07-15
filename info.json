@@ -23,6 +23,55 @@
       "timestamp": "2026-07-14T03:43:00Z",
       "title": "0.0.8",
       "description": "fixed tphandler"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.7",
+      "timestamp": "2026-07-14T22:48:00Z",
+      "title": "0.0.7",
+      "description": "fixed replicatesignal"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.6",
+      "timestamp": "2026-07-14T22:18:00Z",
+      "title": "0.0.6",
+      "description": "fixed getcallbackvalue, temporarily removed replicatesignal"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.5",
+      "timestamp": "2026-07-13T14:41:00Z",
+      "title": "0.0.5",
+      "description": "added isscriptable, setscriptable"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.4",
+      "timestamp": "2026-07-13T08:18:00Z",
+      "title": "0.0.4",
+      "description": "fixed filesystem"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.3",
+      "timestamp": "2026-07-13T08:10:00Z",
+      "title": "0.0.3",
+      "description": "rewrite closures, debug, script, instance libraries"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.2",
+      "timestamp": "2026-07-12T19:38:00Z",
+      "title": "0.0.2",
+      "description": "removed hookfunction, fixed luau problem"
+    },
+    {
+      "id": 2,
+      "version_id": "0.0.1",
+      "timestamp": "2026-07-11T16:04:00Z",
+      "title": "0.0.1",
+      "description": "initial release"
     }
   ]
 }

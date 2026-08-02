@@ -5,17 +5,39 @@
       "platform": "Roblox"
     },
     {
-      "id": "0.1.0",
+      "id": "0.1.3",
       "platform": "Serpent"
     }
   ],
   "changelogs": [
      {
       "id": 1,
-      "version_id": "0.1.0",
+      "version_id": "0.1.3",
       "timestamp": "2026-08-02T13:11:00Z",
+      "title": "0.1.3",
+      "description": "fixed bugs, serpent is now 100% sUNC"
+    },
+    {
+      "id": 1,
+      "version_id": "0.1.2",
+      "timestamp": "2026-07-28T13:11:00Z",
+      "title": "0.1.2",
+      "description": "updated to version-145f189a6a974303"
+    },
+    {
+      "id": 1,
+      "version_id": "0.1.1",
+      "timestamp": "2026-07-26T13:11:00Z",
+      "title": "0.1.1",
+      "description": "updated to version-ed2b47b81f08484a"
+    },
+    ,
+    {
+      "id": 1,
+      "version_id": "0.1.0",
+      "timestamp": "2026-07-22T13:11:00Z",
       "title": "0.1.0",
-      "description": "updated to latest"
+      "description": "updated to version-9affbe66b2624d20"
     },
     {
       "id": 1,

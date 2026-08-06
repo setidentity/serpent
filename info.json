@@ -106,13 +106,5 @@
       "description": "initial release"
     }
   ],
-  "androidchangelogs": [
-    {
-      "id": 1,
-      "version_id": "progress",
-      "timestamp": "2026-08-06T04:08:12.580Z",
-      "title": "progress",
-      "description": "test"
-    }
-  ]
+  "androidchangelogs": []
 }

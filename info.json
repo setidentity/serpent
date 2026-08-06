@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "id": "version-145f189a6a974303",
+      "id": "version-d584fb6c717a43d9",
       "platform": "Roblox"
     },
     {
@@ -9,7 +9,7 @@
       "platform": "Serpent"
     },
     {
-      "id": "0.0.0",
+      "id": "0.0.1",
       "platform": "SerpentAndroid"
     }
   ],
@@ -106,5 +106,13 @@
       "description": "initial release"
     }
   ],
-  "androidchangelogs": []
+  "androidchangelogs": [
+    {
+      "id": 1,
+      "version_id": "progress",
+      "timestamp": "2026-08-06T04:08:12.580Z",
+      "title": "progress",
+      "description": "test"
+    }
+  ]
 }

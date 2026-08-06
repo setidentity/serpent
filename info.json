@@ -5,15 +5,22 @@
       "platform": "Roblox"
     },
     {
-      "id": "0.1.3",
+      "id": "0.1.4",
       "platform": "Serpent"
     },
     {
-      "id": "0.0.1",
+      "id": "0.0.0",
       "platform": "SerpentAndroid"
     }
   ],
   "changelogs": [
+    {
+      "id": 14,
+      "version_id": "0.1.4",
+      "timestamp": "2026-08-06T04:10:15.627Z",
+      "title": "0.1.4",
+      "description": "sorry for ping"
+    },
     {
       "id": 1,
       "version_id": "0.1.3",

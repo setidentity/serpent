@@ -5,22 +5,15 @@
       "platform": "Roblox"
     },
     {
-      "id": "0.1.4",
+      "id": "0.1.3",
       "platform": "Serpent"
     },
     {
-      "id": "0.0.0",
+      "id": "0.0.1",
       "platform": "SerpentAndroid"
     }
   ],
   "changelogs": [
-    {
-      "id": 14,
-      "version_id": "0.1.4",
-      "timestamp": "2026-08-06T04:10:15.627Z",
-      "title": "0.1.4",
-      "description": "sorry for ping"
-    },
     {
       "id": 1,
       "version_id": "0.1.3",
@@ -113,5 +106,13 @@
       "description": "initial release"
     }
   ],
-  "androidchangelogs": []
+  "androidchangelogs": [
+    {
+      "id": 1,
+      "version_id": "progress",
+      "timestamp": "2026-08-06T04:10:18.476Z",
+      "title": "progress",
+      "description": "sorry for ping"
+    }
+  ]
 }
